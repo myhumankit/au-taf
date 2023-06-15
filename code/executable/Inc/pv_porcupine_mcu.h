@@ -1,0 +1,1 @@
+../../../../../Modules/picovoice/resources/porcupine/include/pv_porcupine_mcu.h

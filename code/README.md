@@ -1,13 +1,15 @@
-# code
+# Code
 
 ## Utilisation
-Placer dans ce dossier le code source des applications, firmware et autres sketchs Arduino à intégrer dans la documentation.
 
-Pour des projets complexes, ne pas hésiter à créer un dépôt GitHub dédié.
+Le code source se divise en 2 parties : l'exécutable et la configuration.
 
----
+### Exécutable
 
-## Usage
-This folder contains the source code of applications used in the documentation.
+L'exécutable est identique pour tout le monde et une version compilée est disponible sur le Github.
+Si vous désirez compiler par vous-même, les explications pour la compilation sont disponibles dans le dossier [executable](executable/README.md)
 
-Do not hesitate to create a dedicated GitHub repository for complex projects.
+### Config
+
+La configuration en revanche est personnelle et requiert que l'utilisateur la paramètre en fonction de ses besoins.
+Les explications sur la configuration est disponible dans le dossier [config](config/README.md)

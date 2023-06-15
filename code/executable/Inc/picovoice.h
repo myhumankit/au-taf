@@ -1,0 +1,1 @@
+../../../../../Modules/picovoice/sdk/mcu/include/picovoice.h
