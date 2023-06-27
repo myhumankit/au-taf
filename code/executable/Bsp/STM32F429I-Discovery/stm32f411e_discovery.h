@@ -1,1 +1,0 @@
-../../../../../../Modules/picovoice/resources/porcupine/demo/mcu/stm32f411/stm32f411e-disco/Drivers/BSP/STM32F411E-Discovery/stm32f411e_discovery.h

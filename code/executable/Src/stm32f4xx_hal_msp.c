@@ -1,1 +1,0 @@
-../../../../../Modules/picovoice/resources/porcupine/demo/mcu/stm32f411/stm32f411e-disco/Src/stm32f4xx_hal_msp.c

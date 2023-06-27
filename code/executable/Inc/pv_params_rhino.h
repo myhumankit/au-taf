@@ -1,1 +1,0 @@
-../../../../../Modules/picovoice/demo/mcu/stm32f411/stm32f411e-disco/Inc/pv_params.h
