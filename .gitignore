@@ -10,4 +10,4 @@ code/Json/final
 *.ppn
 
 # Remove STM32 Audio because of licence
-code/executable/Middlewares/ST/STM32_Audio/Addons
+code/Middlewares/ST/STM32_Audio/Addons
