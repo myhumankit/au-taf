@@ -1,3 +1,13 @@
-*.fcstd1
-*.bak
-drafts/
+# Build 
+code/build/
+code/Json/picovoice
+code/Json/final
+
+# Binary Files
+*.bin
+
+# .ppn File (Picovoice wake words)
+*.ppn
+
+# Remove STM32 Audio because of licence
+code/executable/Middlewares/ST/STM32_Audio/Addons

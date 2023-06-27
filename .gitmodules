@@ -1,0 +1,3 @@
+[submodule "code/executable/Modules/picovoice"]
+	path = code/executable/Modules/picovoice
+	url = https://github.com/Picovoice/picovoice.git
