@@ -1,1 +1,1 @@
-Explication
+La librairie STM32_Audio n'est pas disponible directement sur le github par soucis de licence (voir [README](../../../README.md#mise-en-place-de-lenvironnement) pour la récupérer).
